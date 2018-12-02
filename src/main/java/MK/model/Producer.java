@@ -12,6 +12,7 @@ import java.util.Set;
 @Entity
 @Table(name = "producers")
 public class Producer {
+
     @Id
     @GeneratedValue
     private long id;
