@@ -1,0 +1,8 @@
+vacuum sealed paprika,3.96,1
+frozen potatoes,290.54,4
+dried paprika,898.57,5
+spicy beans,948.04,3
+imported lentils,76,2
+fresh tomato,141.78,3
+vacuum sealed chicken,373.4,3
+vacuum sealed beef,856.78,4
